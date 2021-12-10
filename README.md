@@ -12,3 +12,4 @@ REQUIREMENTS:
   webdriver: https://sites.google.com/chromium.org/driver/
   *put the webdriver in the same directory*
  
+Contributions for others websites would galdely be accepted.
