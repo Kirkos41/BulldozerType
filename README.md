@@ -10,3 +10,5 @@ REQUIREMENTS:
   pyautogui: pip install pyautogui
 
   webdriver: https://sites.google.com/chromium.org/driver/
+  *put the webdriver in the same directory*
+ 
